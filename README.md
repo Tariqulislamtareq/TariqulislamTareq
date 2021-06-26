@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tariqul Islam</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-
-
 ### My Language Stats
 
 <a href="https://github.com/itsirajul">
